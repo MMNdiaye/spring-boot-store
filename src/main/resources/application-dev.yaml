@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/store_api
+    username: postgres
+    password: Boompow16+
+  jpa:
+    show-sql: true
+websiteUrl: http://localhost:4242
