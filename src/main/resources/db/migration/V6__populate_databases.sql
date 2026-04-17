@@ -22,7 +22,7 @@ INSERT INTO products (name, price, description, category_id) VALUES
 -- Bakery
 ('White Bread Loaf', 1.30, 'Soft sliced white bread', 6),
 -- Snacks
-('Lay\'s Classic Chips (200g)', 2.00, 'Crispy salted potato chips', 7),
+('Lay''s Classic Chips (200g)', 2.00, 'Crispy salted potato chips', 7),
 -- Frozen Foods
 ('Frozen French Fries (1kg)', 2.80, 'Pre-cut frozen fries', 8),
 -- Additional variety
